@@ -53,7 +53,7 @@ class _HomePageState extends State<HomePage> {
                 'Opening Times',
                 style: Theme.of(context)
                     .textTheme
-                    .headline6!
+                    .bodySmall!
                     .copyWith(fontWeight: FontWeight.bold, color: dark),
               ),
             ),
